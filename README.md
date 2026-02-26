@@ -1,5 +1,5 @@
 # Current Applications of CRISPR/Cas Technology in Gene Therapy – Towards More Precise and Computationally Guided Genome Editing
-
+Jukka M. Kiuru
 ## Introduction
 
 CRISPR/Cas technology has become one of the most significant biotechnological innovations of the past decade. Originally discovered as an adaptive immune defense mechanism in bacteria and archaea, it has been repurposed into a powerful and relatively easy-to-program genome editing tool that is now widely used in basic research and increasingly explored in therapeutic applications. From the perspective of gene therapy, CRISPR/Cas systems have enabled strategies that were previously unattainable with earlier genome editing technologies.
